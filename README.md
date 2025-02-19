@@ -8,4 +8,3 @@ A script has been added to make it easier to test, this script runs the command 
 
 1. Run `pnpm test [app-name]`
 2. See if it copies the existing config in `/src/repro`
-3. 
